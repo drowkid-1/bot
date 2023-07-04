@@ -20,7 +20,7 @@ from var import var
 
 loop = asyncio.get_event_loop()
 
-bot = Bot(token=config.bot_token, loop=loop)
+bot = Bot(token=config.bot_5858339515:AAG9e0aEn8d6i-ymkML5lvnd7GzciJtqXsA, loop=loop)
 storage = MemoryStorage()
 var.downloading = {}
 
